@@ -1,0 +1,3 @@
+# Project exclude paths
+/creator-backend/target/
+/creator-frontend/node_modules/
